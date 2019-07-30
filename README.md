@@ -1,11 +1,11 @@
-# MMM-Brewdog [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/fewieden/MMM-ip/master/LICENSE) [![Build Status](https://travis-ci.org/fewieden/MMM-ip.svg?branch=master)](https://travis-ci.org/fewieden/MMM-ip) [![Code Climate](https://codeclimate.com/github/fewieden/MMM-ip/badges/gpa.svg?style=flat)](https://codeclimate.com/github/fewieden/MMM-ip) [![Known Vulnerabilities](https://snyk.io/test/github/fewieden/mmm-ip/badge.svg)](https://snyk.io/test/github/fewieden/mmm-ip)
+# MMM-Brewdog [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/fewieden/MMM-ip/master/LICENSE)
 
 Simple module for MagicMirror<sup>2</sup> that utilizes the Brewdog API to fetch a random beer
 
 
 ## Example
 
-![](.github/MMM-Brewdog.jpg) ![](.github/example2.jpg)
+![](.github/MMM-Brewdog.jpg)
 
 ## Dependencies
 
