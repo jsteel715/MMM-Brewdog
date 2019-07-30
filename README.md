@@ -2,6 +2,8 @@
 
 Simple module for MagicMirror<sup>2</sup> that utilizes the Brewdog API to fetch a random beer
 
+API: https://api.punkapi.com/v2/beers/random (no key needed)
+
 
 ## Example
 
@@ -10,11 +12,11 @@ Simple module for MagicMirror<sup>2</sup> that utilizes the Brewdog API to fetch
 ## Dependencies
 
 * An installation of [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror)
-* OPTIONAL: [Voice Control](https://github.com/fewieden/MMM-voice)
+* No other dependencies required
 
 ## Installation
 
-1. Clone this repo into `~/MagicMirror/modules` directory.
+1. Clone this repo: `git clone https://github.com/mykle1/MMM-LICE` into `~/MagicMirror/modules` directory. 
 1. Configure your `~/MagicMirror/config/config.js`:
 
 ```
@@ -31,8 +33,6 @@ Simple module for MagicMirror<sup>2</sup> that utilizes the Brewdog API to fetch
 
 | **Option** | **Default** | **Description** |
 | --- | --- | --- |
-| `fontSize` | `9` | Font size in pixels. Only if `voice` is set to `false` |
-| `dimmed` | `true` | Boolean for discrete visibility |
-| `showFamily` | `'both'` | Network Address family to display `'IPv4'`, `'IPv6'` or `'both'` |
-| `showType` | `'both'` | Network interface type to display `'eth0'`, `'wlan0'` or `'both'` |
-| `voice` | `false` | Boolean for optional voice commands |
+| `useHeader` | `false` | Boolean for header visibility |
+| `header` | `'Brewdog Beers'` | Change to whatever you want |
+| `updateInterval` | `60000` | How often until we get another beer |
