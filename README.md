@@ -33,6 +33,6 @@ API: https://api.punkapi.com/v2/beers/random (no key needed)
 
 | **Option** | **Default** | **Description** |
 | --- | --- | --- |
-| `useHeader` | `false` | Boolean for header visibility |
+| `useHeader` | `true` | Boolean for header visibility |
 | `header` | `'Brewdog Beers'` | Change to whatever you want |
 | `updateInterval` | `60000` | How often until we get another beer |
