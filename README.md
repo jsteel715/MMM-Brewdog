@@ -16,7 +16,7 @@ API: https://api.punkapi.com/v2/beers/random (no key needed)
 
 ## Installation
 
-1. Clone this repo: `git clone https://github.com/mykle1/MMM-LICE` into `~/MagicMirror/modules` directory. 
+1. Clone this repo: `git clone https://github.com/jsteel715/MMM-Brewdog` into `~/MagicMirror/modules` directory. 
 1. Configure your `~/MagicMirror/config/config.js`:
 
 ```
