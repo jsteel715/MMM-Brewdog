@@ -5,7 +5,7 @@ Simple module for MagicMirror<sup>2</sup> that utilizes the Brewdog API to fetch
 
 ## Example
 
-![](.github/example.jpg) ![](.github/example2.jpg)
+![](.github/MMM-Brewdog.jpg) ![](.github/example2.jpg)
 
 ## Dependencies
 
